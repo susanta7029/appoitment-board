@@ -216,8 +216,9 @@ export default function App() {
 
       {/* Footer */}
       <footer className="bg-white border-t border-slate-200 py-6 text-center text-xs text-slate-500">
-        <p>© 2026 Appointment Board — Full Stack Developer Intern Practical Assessment</p>
+        <p>© Appointment Board</p>
       </footer>
     </div>
   );
 }
+

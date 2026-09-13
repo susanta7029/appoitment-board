@@ -4,7 +4,10 @@ A full-stack web application designed for small teams to view, schedule, update,
 
 Built for the **Full Stack Developer Intern Practical Assessment**.
 
+![Appointment Board Screenshot](screenshot.png)
+
 ---
+
 
 ## 🌟 Core Features
 
