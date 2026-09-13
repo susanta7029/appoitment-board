@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+backend/__pycache__/
+backend/app/__pycache__/
+*.pyc
+.pytest_cache/
+
+# Databases & local state
+*.db
+*.sqlite
+appointments.db
+
+# Build outputs
+frontend/dist/
+frontend/node_modules/
+
+# Environment & IDE
+.env
+.vscode/
+.idea/
+.DS_Store
